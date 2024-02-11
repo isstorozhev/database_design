@@ -1,0 +1,51 @@
+product_id,brand,product_line,product_class,product_size
+1,Giant Bicycles,Road,low,small
+2,Giant Bicycles,Road,medium,medium
+3,Giant Bicycles,Standard,medium,medium
+4,Giant Bicycles,Standard,medium,large
+5,Giant Bicycles,Standard,high,medium
+6,Giant Bicycles,Standard,medium,small
+7,Giant Bicycles,Standard,high,small
+8,Giant Bicycles,Touring,medium,large
+9,Norco Bicycles,Mountain,low,small
+10,Norco Bicycles,Road,medium,medium
+11,Norco Bicycles,Road,high,large
+12,Norco Bicycles,Road,medium,large
+13,Norco Bicycles,Standard,low,medium
+14,Norco Bicycles,Standard,medium,medium
+15,Norco Bicycles,Standard,medium,small
+16,Norco Bicycles,Standard,high,small
+17,Norco Bicycles,Standard,high,medium
+18,OHM Cycles,Road,high,large
+19,OHM Cycles,Road,medium,medium
+20,OHM Cycles,Road,medium,small
+21,OHM Cycles,Standard,medium,medium
+22,OHM Cycles,Standard,low,medium
+23,OHM Cycles,Standard,high,medium
+24,OHM Cycles,Touring,low,medium
+25,Solex,Road,medium,medium
+26,Solex,Road,medium,small
+27,Solex,Road,medium,large
+28,Solex,Standard,medium,medium
+29,Solex,Standard,medium,large
+30,Solex,Standard,high,medium
+31,Solex,Standard,high,large
+32,Solex,Standard,low,medium
+33,Solex,Touring,medium,large
+34,Trek Bicycles,Mountain,low,medium
+35,Trek Bicycles,Road,medium,medium
+36,Trek Bicycles,Road,low,medium
+37,Trek Bicycles,Road,medium,large
+38,Trek Bicycles,Road,low,small
+39,Trek Bicycles,Standard,medium,medium
+40,Trek Bicycles,Standard,high,medium
+41,Trek Bicycles,Standard,medium,large
+42,Trek Bicycles,Standard,medium,small
+43,Trek Bicycles,Standard,low,medium
+44,WeareA2B,Road,low,small
+45,WeareA2B,Standard,medium,medium
+46,WeareA2B,Standard,medium,small
+47,WeareA2B,Standard,low,medium
+48,WeareA2B,Touring,medium,medium
+49,WeareA2B,Touring,medium,large
+50,,,,
